@@ -1,0 +1,49 @@
+9
+CB001 
+Ruud Gullit
+Giam doc
+Tong giam doc
+10
+CB002 
+Frank Rijkaard
+Nhan su 
+Truong phong
+8.3
+CB003
+Rodri
+Marketing
+Truong phong
+8.15
+CB004
+Alejandro Garnacho
+IT
+Nhan vien
+2.5
+CB005
+Lamine Yamal
+Marketing
+Nhan vien
+4.7
+CB006
+Paul Pogba
+Kinh doanh
+Truong phong
+8.75
+CB007
+Manuel Neuer
+Kinh doanh
+Nhan vien
+3.9
+CB008
+Michael Ballack
+IT
+Nhan vien
+4.8
+CB009
+Jude Bellingham
+Kinh doanh
+Nhan vien
+3.8
+
+
+
